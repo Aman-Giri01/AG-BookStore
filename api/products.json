@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "name":"Rich Dad Poor Dad",
+        "category":"Robert T. Kiyosaki",
+        "brand":"HP",
+        "price":192,
+        "stock":50,
+        "description":"April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published, readers will find that very little in the book itself has changed — and for good reason.",
+        "image":"./image/RichDad.jpg"
+    },
+    {
+        "id":2,
+        "name":"Atomic Habits",
+        "category":" James Clear",
+        "brand":"Apple",
+        "price":460,
+        "stock":60,
+        "description":"People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call.",
+        "image":"./image/Atomic.jpg"
+    },
+    {
+        "id":3,
+        "name":"The Psychology of Money",
+        "category":"Morgan Housel",
+        "brand":"HP",
+        "price":600,
+        "stock":200,
+        "description":"Timeless lessons on wealth, greed, and happiness doing well with money isn?t necessarily about what you know. It?s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. ",
+        "image":"./image/Money.jpg"
+    },
+    {
+        "id":4,
+        "name":"Godan",
+        "category":"Munsi Premchand",
+        "brand":"HP",
+        "price":280,
+        "stock":100,
+        "description":"Godan, a story of stark realism is Premchand's most outstanding work. It is his last completed novel which brings out the realistic interpretation of Indian village society. This is a story of people, hungry and semi starved, yet hopeful and optimistic in the truest spirit of the age it represent.",
+        "image":"./image/godan.jpg"
+    },
+    {
+        "id":5,
+        "name":"GABAN ",
+        "category":"Munsi Premchand ",
+        "brand":"HP",
+        "price":236,
+        "stock":30,
+        "description":"Munshi Premchand penned phenomenal works during his lifetime. In Gaban, Premchand focused on highlighting Class and gender issues. Ramanath’s wife jaalpa’s fondness for trinkets makes her demand a ‘chandrahaar’ from her husband. Ramanath belongs to the middle class but in front of his wife, he displays himself as a wealthy man. In order to get the trinket jaalpa wants, he commits a theft. What will happen to ramanath? ",
+        "image":"./image/gaban.jpg"
+    },
+    {
+        "id":6,
+        "name":"Why I am an Atheist  ",
+        "category":"Bhagat Singh ",
+        "brand":"HP",
+        "price":138,
+        "stock":40,
+        "description":"Bhagat Singh is a name that became synonymous with revolution in India’s struggle for independence. This young boy brought about a change in the way people thought about freedom. He was well read and fought extensively for rights – his own, his comrades’ and his countrymen’s ",
+        "image":"./image/bhagat.jpg"
+    },
+    {
+        "id":7,
+        "name":"Why I Killed Gandhi ",
+        "category":"Nathuram Godse",
+        "brand":"HP",
+        "price":217,
+        "stock":40,
+        "description":"Truth, courage, patriotism, emotions and the nation come together in this simmering narrative.Nathuram Godse assassinated Mahatma Gandhi as he walked towards the prayer grounds at the Birla House in New Delhi. Godse had attempted the attack twice earlier, but failed. After the third attempt, which led to Gandhi's death, he was arrested at the crime scene and sentenced to death after a year-long trial.",
+        "image":"./image/godse.jpg"
+    }
+
+
+
+]
